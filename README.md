@@ -6,8 +6,6 @@ In today's rapidly evolving digital landscape, the proliferation of Internet of 
 
 As the IoT ecosystem continues to expand, ensuring the integrity, confidentiality, and availability of sensitive data becomes paramount. An effective intrusion detection system serves as a vigilant guardian against unauthorized activities and malicious actors, enabling proactive threat identification and swift response. By deploying sophisticated detection models and leveraging advanced machine learning techniques, we can fortify IoT network security and safeguard the privacy and functionality of connected devices.
 
-This repository aims to explore, develop, and showcase cutting-edge intrusion detection solutions tailored to the unique challenges posed by IoT networks. Through collaborative research and innovation, we strive to contribute to the advancement of network security practices and ensure the seamless operation of IoT devices in an increasingly interconnected world.
-
 ## Features
 
 - Real-time intrusion detection algorithms
